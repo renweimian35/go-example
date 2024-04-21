@@ -7,3 +7,7 @@ import (
 func main() {
 	router.Run()
 }
+
+func initApp() {
+
+}
